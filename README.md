@@ -26,7 +26,7 @@ Shows how countries are distributed by population size.
 
 Most countries have populations under 100 million.
 
-(Attach your saved plot: population_histogram.png)
+![Population Histogram](population_histogram.png)
 
 2. Bar Chart – Top 10 Populated Countries (2020)
 
@@ -34,7 +34,7 @@ China and India have the highest populations.
 
 USA, Indonesia, Pakistan, Brazil, Nigeria, Bangladesh, Russia, and Mexico follow.
 
-(Attach your saved plot: population_top10.png)
+![Top 10 Countries](population_top10.png)
 
 🔑 Key Insights
 
